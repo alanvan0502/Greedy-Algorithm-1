@@ -9,7 +9,7 @@ import model.Change;
 import model.DotProduct;
 import model.FractionalKnapsack;
 
-public class TestSolution {
+public class Tests1 {
     
     @Test
     public void testChange() {
